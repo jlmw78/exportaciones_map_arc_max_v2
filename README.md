@@ -1,5 +1,6 @@
 # geojson-dashboard
 A configurable framework for building a geographic "data dashboard" from a GeoJSON file.
+
 Un marco configurable para crear un "panel de datos" geográfico a partir de un archivo GeoJSON.
 
 ## Features
@@ -12,6 +13,8 @@ Un marco configurable para crear un "panel de datos" geográfico a partir de un 
 * Advanced, interactive GeoJSON data querying that integrates [jQuery QueryBuilder](http://mistic100.github.io/jQuery-QueryBuilder/index.html) with [AlaSQL](http://alasql.org/)
 * Advanced charting via [C3.js](http://c3js.org/), the D3-based reusable chart library
 
+
+
 * Plantilla flexible basada en componentes activos de código abierto
 * Completamente del lado del cliente, puede alojarse gratuitamente en [GitHub Pages](https://pages.github.com/)
 * Construida sobre el increíblemente popular framework de interfaz de usuario [Bootstrap](http://getbootstrap.com/)
@@ -23,8 +26,6 @@ Un marco configurable para crear un "panel de datos" geográfico a partir de un 
 Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
 
 ## Mas detalles en
-
-Split screen view
 
 ![Mas detalles en](https://raw.githubusercontent.com/fulcrumapp)
 
