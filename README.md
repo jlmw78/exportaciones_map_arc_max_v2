@@ -1,5 +1,6 @@
 # geojson-dashboard
 A configurable framework for building a geographic "data dashboard" from a GeoJSON file.
+Un marco configurable para crear un "panel de datos" geográfico a partir de un archivo GeoJSON.
 
 ## Features
 
@@ -11,20 +12,20 @@ A configurable framework for building a geographic "data dashboard" from a GeoJS
 * Advanced, interactive GeoJSON data querying that integrates [jQuery QueryBuilder](http://mistic100.github.io/jQuery-QueryBuilder/index.html) with [AlaSQL](http://alasql.org/)
 * Advanced charting via [C3.js](http://c3js.org/), the D3-based reusable chart library
 
-## Screenshots
+* Plantilla flexible basada en componentes activos de código abierto
+* Completamente del lado del cliente, puede alojarse gratuitamente en [GitHub Pages](https://pages.github.com/)
+* Construida sobre el increíblemente popular framework de interfaz de usuario [Bootstrap](http://getbootstrap.com/)
+* Mapas a través de [Leaflet](http://leafletjs.com/), la principal biblioteca de mapas JavaScript de código abierto.
+* Tabla de datos interactiva con ordenación, búsqueda, alternancia de columnas y exportación de datos mediante el complemento [Bootstrap Table](http://bootstrap-table.wenzhixin.net.cn/).
+* Consulta avanzada e interactiva de datos GeoJSON que integra [jQuery QueryBuilder](http://mistic100.github.io/jQuery-QueryBuilder/index.html) con [AlaSQL](http://alasql.org/)
+* Gráficos avanzados mediante [C3.js](http://c3js.org/), la biblioteca de gráficos reutilizables basada en D3.
+
+Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
+
+## Mas detalles en
 
 Split screen view
 
-![Map](https://raw.githubusercontent.com/fulcrumapp/geojson-dashboard/gh-pages/screenshots/map.png)
+![Mas detalles en](https://raw.githubusercontent.com/fulcrumapp)
 
-Feature Info popup
 
-![Info](https://raw.githubusercontent.com/fulcrumapp/geojson-dashboard/gh-pages/screenshots/info.png)
-
-Interactive charts
-
-![Charts](https://raw.githubusercontent.com/fulcrumapp/geojson-dashboard/gh-pages/screenshots/charts.png)
-
-SQL query filters
-
-![Filter](https://raw.githubusercontent.com/fulcrumapp/geojson-dashboard/gh-pages/screenshots/filter.png)
