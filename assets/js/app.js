@@ -1,5 +1,5 @@
 var config = {
-  geojson: "https://raw.githubusercontent.com/jlmw78/exportaciones_map_arc_max/main/data/temp2.geojson",
+  geojson: "https://raw.githubusercontent.com/jlmw78/exportaciones_map_arc_max_v2/main/assets/js/temp2.geojson",
   title: "Exportaciones desde Prov. Santa fe",
   layerName: "Puntos",
   hoverProperty: "pais",
